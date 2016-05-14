@@ -1,0 +1,2 @@
+# change username to your github username
+0 0 * * * ./fetch-and-historize.sh username

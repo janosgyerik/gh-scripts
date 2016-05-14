@@ -1,1 +1,6 @@
+# crontab work files
+/crontab.sh.crontab
+/crontab.sh.crontab.bak
+
+# history files
 /work/

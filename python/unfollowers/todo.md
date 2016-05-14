@@ -1,1 +1,0 @@
-crontab installer with mailer
